@@ -2,6 +2,8 @@
 
 Public repo for MR501 workshop activities
 
+Seth's Edit
+
 ***
 
  “I wish I hadn’t cried so much!” said Alice, as she swam about, trying to find her way out. “I shall be punished for it now, I suppose, by being drowned in my own tears! That will be a queer thing, to be sure! However, everything is queer to-day.”
